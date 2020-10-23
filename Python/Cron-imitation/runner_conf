@@ -1,0 +1,4 @@
+every Monday,Tuesday at 1900 run /bin/bash/tmp/a hello world
+at 0900,1000,1330,1500 run /home/bob/myprog
+every Monday,Tuesday,Wednesday at 1100 run /bin/tmp/b Args
+on Wednesday at 1700,1809 run /bin/echo hello
